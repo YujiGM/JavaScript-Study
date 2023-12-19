@@ -30,6 +30,11 @@ let firstName = "John"
   
 document.getElementById("p1").innerHTML = "Hello " + firstName
 
+//this should output:
+
+Hello John
+
+
 
 
 
